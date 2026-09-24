@@ -1,0 +1,92 @@
+{
+  "selection_rule": "Within each original split, sort condition IDs and select evenly spaced indices with numpy.linspace(0,n-1,count,dtype=int).",
+  "counts": {
+    "train": 14,
+    "val": 3,
+    "test": 3
+  },
+  "conditions": [
+    {
+      "condition_id": "TS001",
+      "split": "val"
+    },
+    {
+      "condition_id": "TS002",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS003",
+      "split": "test"
+    },
+    {
+      "condition_id": "TS023",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS049",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS071",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS097",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS115",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS138",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS151",
+      "split": "test"
+    },
+    {
+      "condition_id": "TS157",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS167",
+      "split": "val"
+    },
+    {
+      "condition_id": "TS177",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS198",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS221",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS244",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS271",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS297",
+      "split": "train"
+    },
+    {
+      "condition_id": "TS298",
+      "split": "test"
+    },
+    {
+      "condition_id": "TS300",
+      "split": "val"
+    }
+  ],
+  "reference_training_seed": 7,
+  "selection_used_responses_or_prediction_errors": false
+}

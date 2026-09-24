@@ -1,0 +1,468 @@
+{
+  "max_absolute_difference_from_stored_references": {
+    "anchor_lower": 0.0,
+    "anchor_upper": 2.5449220508733106e-10
+  },
+  "taylor": {
+    "TS001": {
+      "r00": {
+        "value": 2.383233756834445,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 5.285618032616348e-09,
+        "evaluations": 18,
+        "max_grain_inversion_error": 6.1509760384027e-09
+      },
+      "r45": {
+        "value": 0.9610735235001783,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 4.83690196358902e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 9.384388281927041e-09
+      },
+      "r90": {
+        "value": 0.8648448501304561,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.6201917924416037e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.597192935677734e-08
+      }
+    },
+    "TS002": {
+      "r00": {
+        "value": 0.24757354974630738,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -5.196629105650533e-09,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.7824667168981616e-08
+      },
+      "r45": {
+        "value": 0.7909839323854976,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.0960642753448025e-09,
+        "evaluations": 18,
+        "max_grain_inversion_error": 8.736371242085933e-09
+      },
+      "r90": {
+        "value": 0.24608040473212572,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 3.3389381024886673e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.8232771460032205e-08
+      }
+    },
+    "TS003": {
+      "r00": {
+        "value": 0.5483655592901585,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -3.0027158118849415e-08,
+        "evaluations": 18,
+        "max_grain_inversion_error": 7.3053880718756064e-09
+      },
+      "r45": {
+        "value": 1.5829430995111071,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 4.7411020123412886e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 4.014926921466412e-09
+      },
+      "r90": {
+        "value": 0.7124015431705767,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.0952636870175504e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3201274935146004e-08
+      }
+    },
+    "TS023": {
+      "r00": {
+        "value": 1.7845346268138857,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.6187250680486155e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3848055533889367e-08
+      },
+      "r45": {
+        "value": 1.5082425559542558,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 8.24396806127065e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.91932071585711e-08
+      },
+      "r90": {
+        "value": 0.7195288994186778,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 9.294534030897605e-10,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.010858463517257e-09
+      }
+    },
+    "TS049": {
+      "r00": {
+        "value": 1.5345970261908202,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 3.4526594249454126e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.033647674615523e-09
+      },
+      "r45": {
+        "value": 0.6078594888914971,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.721778556511223e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.0033529771720399e-08
+      },
+      "r90": {
+        "value": 2.4723002435077,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.775142757601651e-07,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.793669338893434e-08
+      }
+    },
+    "TS071": {
+      "r00": {
+        "value": 2.2834732372121973,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 9.429726490268325e-10,
+        "evaluations": 17,
+        "max_grain_inversion_error": 8.581488050544391e-09
+      },
+      "r45": {
+        "value": 0.6267334685018208,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.4489550911964298e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.9748699110234086e-08
+      },
+      "r90": {
+        "value": 1.5867437265114128,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 6.0258717618701974e-09,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.482485944960939e-09
+      }
+    },
+    "TS097": {
+      "r00": {
+        "value": 0.4545326035593454,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.0420418416606796e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.6410837657946432e-08
+      },
+      "r45": {
+        "value": 0.9174371366261956,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.2528957935770927e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.7899905130208205e-08
+      },
+      "r90": {
+        "value": 0.29492755641267776,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 3.695219062414082e-10,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.7805108393680847e-08
+      }
+    },
+    "TS115": {
+      "r00": {
+        "value": 0.8231105483583531,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.236008142450238e-06,
+        "evaluations": 17,
+        "max_grain_inversion_error": 5.538426573631942e-09
+      },
+      "r45": {
+        "value": 0.7812508542966347,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -5.140793209422689e-11,
+        "evaluations": 18,
+        "max_grain_inversion_error": 3.098628491719952e-09
+      },
+      "r90": {
+        "value": 0.7966544080272383,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 5.946379363688572e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 2.6461644355280633e-09
+      }
+    },
+    "TS138": {
+      "r00": {
+        "value": 0.977521749757006,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 8.49924194606502e-09,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3888707799405678e-08
+      },
+      "r45": {
+        "value": 0.7867416680385743,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -3.8483182110441854e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.70304040964199e-09
+      },
+      "r90": {
+        "value": 1.096869402850061,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.2302392801643294e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.9255325246329857e-08
+      }
+    },
+    "TS151": {
+      "r00": {
+        "value": 0.8111892605649322,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -2.1957720960802686e-09,
+        "evaluations": 18,
+        "max_grain_inversion_error": 8.222101394478655e-09
+      },
+      "r45": {
+        "value": 0.8992742092102897,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 6.574965426298624e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 9.263433361774782e-09
+      },
+      "r90": {
+        "value": 1.1753861557919496,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 5.709685385912539e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.0697660199376116e-08
+      }
+    },
+    "TS157": {
+      "r00": {
+        "value": 1.0370135384784347,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 2.1280446684187513e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.7285722257674153e-08
+      },
+      "r45": {
+        "value": 0.475479338055906,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -8.965026702272212e-09,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.0433728490441288e-08
+      },
+      "r90": {
+        "value": 1.2146556000461364,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 3.8953417885544384e-09,
+        "evaluations": 17,
+        "max_grain_inversion_error": 8.319821732484142e-09
+      }
+    },
+    "TS167": {
+      "r00": {
+        "value": 0.6201956786695947,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 4.492327546146139e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.440980522258007e-08
+      },
+      "r45": {
+        "value": 0.8145321609421955,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -6.733162086002855e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3623136301602195e-08
+      },
+      "r90": {
+        "value": 0.6534341739729645,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -9.850238422573695e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 2.469521351515957e-09
+      }
+    },
+    "TS177": {
+      "r00": {
+        "value": 1.0745651773025522,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -2.1759628702184548e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 8.392104580449504e-09
+      },
+      "r45": {
+        "value": 0.9206804065384292,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 7.140135827136168e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.1533019796112674e-08
+      },
+      "r90": {
+        "value": 0.8136559905312081,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -9.351663238576846e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3413355023600728e-08
+      }
+    },
+    "TS198": {
+      "r00": {
+        "value": 0.6249553669337546,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.4146742378031942e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.9620659022161047e-08
+      },
+      "r45": {
+        "value": 0.879107630116046,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.216748059193544e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.365242074209095e-09
+      },
+      "r90": {
+        "value": 1.2203316990098059,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.2354574469157653e-10,
+        "evaluations": 18,
+        "max_grain_inversion_error": 7.672977759217592e-09
+      }
+    },
+    "TS221": {
+      "r00": {
+        "value": 0.9345875636469224,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 4.1197700481441593e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.007785050707432e-08
+      },
+      "r45": {
+        "value": 1.71798409021246,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.3038508825873467e-06,
+        "evaluations": 17,
+        "max_grain_inversion_error": 2.516141879652718e-09
+      },
+      "r90": {
+        "value": 0.47108213627109674,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -5.768422632439759e-10,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.1057162439234983e-08
+      }
+    },
+    "TS244": {
+      "r00": {
+        "value": 1.260137207555011,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 3.6257276596988266e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 3.0106622572254494e-09
+      },
+      "r45": {
+        "value": 0.7430430409924667,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -9.082222647067179e-11,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.7669215766620642e-08
+      },
+      "r90": {
+        "value": 0.9499172080313991,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 8.575569660212353e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.8517394107052656e-08
+      }
+    },
+    "TS271": {
+      "r00": {
+        "value": 0.9073392128876727,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -9.226933744006204e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.3728247821154522e-09
+      },
+      "r45": {
+        "value": 1.2927633691375167,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.4756593504597625e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 4.5913531026897106e-09
+      },
+      "r90": {
+        "value": 0.6451175171547973,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -2.7513407392833205e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 6.639620886395159e-09
+      }
+    },
+    "TS297": {
+      "r00": {
+        "value": 1.216969644148684,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.5191745980026076e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.1493270337688272e-08
+      },
+      "r45": {
+        "value": 2.2467876906444113,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -4.2603975864102645e-10,
+        "evaluations": 18,
+        "max_grain_inversion_error": 1.3656290267550325e-08
+      },
+      "r90": {
+        "value": 0.7738729196299007,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.4236549633555046e-06,
+        "evaluations": 17,
+        "max_grain_inversion_error": 9.859508744566e-09
+      }
+    },
+    "TS298": {
+      "r00": {
+        "value": 1.0678640911377066,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -4.13579596926605e-09,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.6328458741473907e-08
+      },
+      "r45": {
+        "value": 0.9546592475174649,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.1929274455760746e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.5722942344899027e-08
+      },
+      "r90": {
+        "value": 4.223326468389472,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 9.562132388349706e-07,
+        "evaluations": 17,
+        "max_grain_inversion_error": 7.559956248066048e-09
+      }
+    },
+    "TS300": {
+      "r00": {
+        "value": 0.8659491616156898,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": -1.1345121666834059e-06,
+        "evaluations": 17,
+        "max_grain_inversion_error": 9.844597231483955e-09
+      },
+      "r45": {
+        "value": 1.3287786071142431,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 1.0340436820125905e-06,
+        "evaluations": 17,
+        "max_grain_inversion_error": 1.942407462271586e-08
+      },
+      "r90": {
+        "value": 1.2496721529581851,
+        "status": "bracketed_root",
+        "normalized_plane_stress_residual": 4.5710229193578985e-08,
+        "evaluations": 17,
+        "max_grain_inversion_error": 2.488097937879834e-09
+      }
+    }
+  }
+}

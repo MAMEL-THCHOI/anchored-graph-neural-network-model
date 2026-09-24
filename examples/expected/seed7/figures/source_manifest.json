@@ -1,0 +1,38 @@
+[
+  {
+    "path": "examples/targets.npz",
+    "bytes": 28728,
+    "mtime_ns": 1790241561152733600,
+    "sha256": "b4b55432317d4511606c1d19597f9def9f2d77d51f8fb6029f53d126666f37a5"
+  },
+  {
+    "path": "examples/cpfem_hardening.csv",
+    "bytes": 93974,
+    "mtime_ns": 1790241561160596600,
+    "sha256": "eb117ccc48f33cee1fbd2c9368d89201bffec404fb036b0e93abaeb4599368e3"
+  },
+  {
+    "path": "examples/split.csv",
+    "bytes": 271,
+    "mtime_ns": 1790241559462621800,
+    "sha256": "5aba7eca13aed82855c48663441c4f157b5b53d34b8ab0f6139cd3b1f565537f"
+  },
+  {
+    "path": "examples/expected/seed7/predictions.npz",
+    "bytes": 3271,
+    "mtime_ns": 1790241739238089600,
+    "sha256": "a0165dcce15f951a6c566ba368120f7f9d0d8bed3fa906d1f85b2998843bf0df"
+  },
+  {
+    "path": "examples/expected/seed7/summary.json",
+    "bytes": 418,
+    "mtime_ns": 1790241736678752300,
+    "sha256": "e4e472c11e0b09e7cb1bee695b0f1e8a9afa7e8ddf5b63ae056d4536a79263dd"
+  },
+  {
+    "path": "examples/expected/seed7/model_best.pt",
+    "bytes": 228149,
+    "mtime_ns": 1790241736450707700,
+    "sha256": "03f25b013ea0de3ea6efa17068fc7bf6d470f40ca88d7bd64bc1f7973bc27d4e"
+  }
+]
