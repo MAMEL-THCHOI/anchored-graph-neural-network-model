@@ -1,0 +1,60 @@
+{
+  "validated_on": "2026-09-24",
+  "release_version": "2.1.0",
+  "example_conditions": 20,
+  "split_counts": {
+    "train": 14,
+    "val": 3,
+    "test": 3
+  },
+  "smoke_test_passed": true,
+  "graphs_rebuilt_from_bundled_microstructures": 20,
+  "anchors_recalculated_from_bundled_microstructures": 20,
+  "train_only_normalization_verified": true,
+  "original_split_membership_preserved": true,
+  "model_loss_gradient_check": {
+    "initialization_exact_match": true,
+    "forward_exact_match": true,
+    "loss_research": 3.0172066688537598,
+    "loss_public": 3.0172066688537598,
+    "max_gradient_difference": 1.4901161193847656e-08,
+    "parameter_count": 51623
+  },
+  "example_summary": {
+    "seed": 7,
+    "selected_epoch": 76,
+    "selected_state_type": "raw",
+    "validation": {
+      "hardening": {
+        "count": 189,
+        "mae": 5.21305482846964,
+        "mre": 0.020220521415060498,
+        "R2": 0.988389425100271
+      },
+      "r": {
+        "count": 9,
+        "mae": 0.14656334547363345,
+        "mre": 0.11980210683673136,
+        "R2": 0.9653596176102595
+      }
+    },
+    "epochs_completed": 101
+  },
+  "example_test_metrics": {
+    "group": "test",
+    "hardening": {
+      "count": 189,
+      "mae": 7.148932934982566,
+      "mre": 0.02564916649163844,
+      "R2": 0.9690134834116764
+    },
+    "r": {
+      "count": 9,
+      "mae": 0.08113756899228398,
+      "mre": 0.07214024935573404,
+      "R2": 0.9964588540499594
+    }
+  },
+  "full_study_data_and_checkpoints_included": false,
+  "example_checkpoint_count": 1
+}

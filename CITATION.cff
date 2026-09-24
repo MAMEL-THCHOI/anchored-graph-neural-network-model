@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "Anchored graph neural network model"
+repository-code: "https://github.com/MAMEL-THCHOI/anchored-graph-neural-network-model"
+type: software
+version: 2.1.0
+date-released: 2026-09-24
+license: MIT
+authors:
+  - family-names: Choi
+    given-names: Taehyeok
+  - family-names: Sim
+    given-names: Gyu-Jang
+  - family-names: Park
+    given-names: Jinheung
+  - family-names: Lee
+    given-names: Myoung-Gyu
+

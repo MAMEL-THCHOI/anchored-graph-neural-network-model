@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+example_run*/
+figure_run/
+RUNS/
